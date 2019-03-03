@@ -18,7 +18,7 @@ Improvements in progress:
 ## MineSweeper
 Final Project for *Intro to Web Programming Using JavaScript*, Fall 2016.
 ### [Play MineSweeper](http://swiftwinning.com/minesweeper/)
-### [view MineSweeper code](https://github.com/swiftwinning/windowPanes/)
+### [view MineSweeper code](https://github.com/swiftwinning/minesweeper)
 Improvements in progress:
 * Responsive design for mobile compatibility
 ----
@@ -26,7 +26,7 @@ Improvements in progress:
 Final Project for *Intro to Computer Science Using Java part II*, Spring 2016.
 
 To play, download the .class files and run them in a Java Virtual Machnine environment.
-### [Play FreeCell and view code](http://swiftwinning.com/freecell/)
+### [Play FreeCell and view code](https://github.com/swiftwinning/freecell)
 Improvements in progress:
 * Refactoring Array-based implementation to Linked List-based implementation for improved space efficiency
 * Improved GUI using Swing
